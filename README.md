@@ -1,3 +1,8 @@
+Latest: AAL v2.0 (June 2026)
+Full specification now covers 100% of industrial automation use cases including 
+State Machines, Calculated Sensors, Recipe Management, Modbus RS485/TCP, 
+and Analog Output. See SPECIFICATION_v2.md
+
 # AKILI Automation Language (AAL) v1.0
 
 **A natural language domain-specific language for industrial automation**
